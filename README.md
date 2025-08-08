@@ -2,9 +2,6 @@
 A text-based notes manager with file read/write.  Java File I/O
 
 ---
-Used FileWriter to write notes to a file.
-Used FileReader/BufferedReader to read.
----
 
 # Features
 
@@ -12,7 +9,8 @@ Used FileReader/BufferedReader to read.
 -  View all saved notes
 -  Stores notes in `notes.txt`
 -  Uses standard Java I/O libraries
--  Beginner-friendly code structure
+-  Used FileWriter to write notes to a file.
+-  Used FileReader/BufferedReader to read.
 
 ---
 
