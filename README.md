@@ -22,6 +22,6 @@ A text-based notes manager with file read/write.  Java File I/O
 
 # Sample Image
 
-[!image](https://github.com/foreverxhb/Notes-App/blob/dd30d96e1321c7b67ea024be09b043f5751ace0c/Screenshot%202025-08-08%20195605.png)
+![image](https://github.com/foreverxhb/Notes-App/blob/dd30d96e1321c7b67ea024be09b043f5751ace0c/Screenshot%202025-08-08%20195605.png)
 
 
