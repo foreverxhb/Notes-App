@@ -1,6 +1,7 @@
 # Notes-App
 A text-based notes manager with file read/write.  Java File I/O
-
+Used FileWriter to write notes to a file.
+Used FileReader/BufferedReader to read.
 ---
 
 # Features
